@@ -1,2 +1,2 @@
-# PrimeCloneFrontend2
+# PrimeCloneFrontend
 Created with CodeSandbox

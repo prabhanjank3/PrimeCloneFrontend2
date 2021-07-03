@@ -1,0 +1,28 @@
+.prime-page {
+  margin-top: 5%;
+}
+.plan-section {
+  border: 0.3px dotted gray;
+  padding-left: 20px;
+}
+.plan-item-row {
+  padding: 15px 0px;
+}
+.promo-apply-btn {
+  padding: 10px 50px;
+  margin-left: 20px;
+}
+.promo-form {
+  margin: 15px 0px 0px 15px;
+  display: inlinel;
+}
+.promo-apply-btn-div {
+  float: right;
+}
+@media (max-width: 500px) {
+  /* CSS that should be displayed if width is equal to or less than 800px goes here */
+  .promo-apply-btn-div {
+    position: relative;
+    left: -45%;
+  }
+}
